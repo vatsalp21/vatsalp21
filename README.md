@@ -7,7 +7,7 @@ I'm Vatsal Pandey! 👋
 Check out my portfolio here: https://cutt.ly/vatsalpandey
 
 ## 🧐 About
-- 🔭 I’m currently working on Slack Clone
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on Mobile App Development
+- 🌱 I’m currently learning React Native
 - 👯 I’m a student at Christ University, Bangalore (BCA)
 - 💬 Ask me about Web Development or Post Production stuff
